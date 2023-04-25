@@ -1,4 +1,4 @@
-from list_of_notes import ListOfNotes
+from list_of_note import ListOfNotes
 from view import View
 
 
